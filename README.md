@@ -10,4 +10,4 @@ P.S. Please don't throw stones at me, as i'm new at this and really trying to do
 
 ## Authors
 
-* **Denys Zubchevskyi** - *Initial work* - [Calculator](https://github.com/handsomeden4eg/MateAcademy)
+* **Denys Zubchevskyi**
